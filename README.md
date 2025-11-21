@@ -24,7 +24,7 @@ To get motor to "blink", we need a motor driver. Use a motor driver on the circu
 <img src="./img/arduino_motor_driver.jpg" width="300" alt="driver"/>
 </figure>
 
-If we want to make a project (robot, kinetic sculpture, vehicle...) we need a way to make it smaller and more secure, and need a battery!  First step is smaller.  With the XIAO modules, we can put it all on one board.
+If we want to make a project (robot, kinetic sculpture, vehicle...) we need a way to make it smaller and more secure, and need a battery!  First step is smaller.  With the XIAO modules, we can put it all on one board.  Maybe at this point, have them solder the little legs onto the XIAO's.  This is an easy intro to soldering.
 
 <figure>
 <img src="./img/xiao_motor_driver.jpg" width="300" alt="xiao"/>
