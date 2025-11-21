@@ -42,6 +42,8 @@ Now that they have a board with a battery, they can make projects that incorpora
 <img src="./img/project.jpg" width="300" alt="project"/>
 </figure>
 
+.
+
 
 
 [link to video of "soap box derby"](https://youtu.be/t1SzbhwTUY0)
