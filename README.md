@@ -3,7 +3,7 @@ intro to elect readme
 
 
 <figure>
-<img src="./img/LED\_battery.jpg" width="300" alt="led"/>
+<img src="./img/LED_battery.jpg" width="300" alt="led"/>
 </figure>
 
 
