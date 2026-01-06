@@ -36,6 +36,11 @@ Next step is to solder everything onto a little proto-board, and include a batte
 <img src="./img/perma_board.jpg" width="300" alt="perma"/>
 </figure>
 
+<figure>
+<img src="./img/xiao_soldered.jpg" width="300" alt="perma"/>
+</figure>
+
+
 Now that they have a board with a battery, they can make projects that incorporate motors or LED's that can be charged using a USB charger, and can run independently.  Below is a little cart that I made using a box that contained a bar of soap.  I call it the "soap box derby".
 
 <figure>
