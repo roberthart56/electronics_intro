@@ -13,13 +13,13 @@ First have them make circuits with battery and LED's.  Discuss and experiment wi
 <img src="./img/LED_battery.jpg" width="300" alt="led"/>
 </figure>
 
-Then use the Arduino boards and white push-in circuitboards to make circuits.  Continue discussion.  Use multimeter to learn about voltage in a circuit.  Arduino boards used as batteries.  We will pre-load the Arduinos with a program that makes two pins 'blink'. The pre-loaded blink program is used to make LED blink.  No programming needed yet, but we can show them at some point later how to change the program to blink with different timing. 
+Then use microcontroller modules on push-in circuitboards to make circuits.  Continue discussion.  Use multimeter to learn about voltage in a circuit.  The power and ground pins of the microcontroller are the "battery".  We will pre-load the microcontrollers with a program that makes two pins 'blink',  and show that the pins can be used as a source of voltage to make an LED turn off and on.  No programming needed yet, but they can measure voltages and get an idea of what we mean by programming. 
 
 <figure>
 <img src="./img/arduino_led.jpg" width="300" alt="arduino-led"/>
 </figure>
 
-Run a motor with the Arduino board, either directly or using circuitboards.  Find out how to make motor run forwards and backwards.  Discover that the Arduino board pins that are able to make the LED blink cannot drive motor directly.  
+Run a motor on a breadboard using the power and ground pins of a microcontroller.  Find out how to make motor run forwards and backwards.  Discover that the board pins that are able to make the LED blink cannot drive motor directly.  
 
 <figure>
 <img src="./img/arduino_motor.jpg" width="300" alt="motor"/>
