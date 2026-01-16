@@ -1,3 +1,10 @@
+Kit for spring 2026 workshops
+
+<figure>
+<img src="./img/kit_jan15_2026.jpg" width="500" alt="arduino-led"/>
+</figure>
+
+
 Suggestion for sequence in electronics intro:
 
 First have them make circuits with battery and LED's.  Discuss and experiment with colors, number of led's, direction, and other.
