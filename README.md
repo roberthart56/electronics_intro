@@ -19,6 +19,13 @@ Then use microcontroller modules on push-in circuitboards to make circuits.  Con
 <img src="./img/xiao_led.jpg" width="300" alt="arduino-led"/>
 </figure>
 
+
+Programming.
+
+<figure>
+<img src="./img/Thonny.png" width="300" alt="arduino-led"/>
+</figure>
+
 Run a motor on a breadboard using the power and ground pins of a microcontroller.  Find out how to make motor run forwards and backwards.  Discover that the board pins that are able to make the LED blink cannot drive motor directly.  
 
 <figure>
