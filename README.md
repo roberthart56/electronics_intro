@@ -28,7 +28,7 @@ Run a motor on a breadboard using the power and ground pins of a microcontroller
 To get motor to "blink", we need a motor driver. Use a motor driver on the circuitboard.  See how to make motor run forward and backwards using this driver.  Use built-in blink to make motor start and stop.  Maybe make motor go both ways using a second "blink" pin.
 
 <figure>
-<img src="./img/xiao_motor_driver02.jpg" width="300" alt="driver"/>
+<img src="./img/xiao_motor_driver_02.jpg" width="300" alt="driver"/>
 </figure>
 
 If we want to make a project (robot, kinetic sculpture, vehicle...) we need a way to make it smaller and more secure, and need a battery!  
@@ -43,7 +43,7 @@ We can solder everything onto a little proto-board, and include a battery that c
 </figure>
 
 
-Now that they have a board with a battery, they can make projects that incorporate motors or LED's that can be charged using a USB charger, and can run independently.  Below is a little cart that I made using a box that contained a bar of soap.  I call it the "soap box derby".
+Now that they have a board with a battery, they can make projects that incorporate motors or LED's that can be charged using a USB charger, and can run independently.  Below is a little cart that I made using a box that contained a bar of soap.  My "soap box" racer.
 
 <figure>
 <img src="./img/project.jpg" width="300" alt="project"/>
