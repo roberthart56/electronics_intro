@@ -7,13 +7,12 @@ Kit for spring 2026 workshops
 
 Suggestion for sequence in electronics intro:
 
-First have them make circuits with battery and LED's.  Discuss and experiment with colors, number of led's, direction, and other.
-
+First have them make circuits with battery and LED's.  Discuss and experiment with colors, number of led's, direction, and other.  Discuss and draw circuit diagram.  
 <figure>
 <img src="./img/LED_battery.jpg" width="300" alt="led"/>
 </figure>
 
-Then use microcontroller modules on push-in circuitboards to make circuits.  Continue discussion.  Use multimeter to learn about voltage in a circuit.  The power and ground pins of the microcontroller are the "battery".  We will pre-load the microcontrollers with a program that makes two pins 'blink',  and show that the pins can be used as a source of voltage to make an LED turn off and on.  No programming needed yet, but they can measure voltages and get an idea of what we mean by programming. 
+Then use microcontroller modules on push-in circuitboards to make circuits.  Continue discussion.  Use multimeter to learn about voltage in a circuit.  The power and ground pins of the microcontroller are the "battery".  We will prepare the microcontrollers:  install Micropython, and pre-load with a program that makes a pin 'blink',  and show that the pin can be used as a source of voltage to make an LED turn off and on.  No programming needed yet, but they can measure voltages and get an idea of what we mean by programming. 
 
 <figure>
 <img src="./img/xiao_led.jpg" width="300" alt="arduino-led"/>
@@ -22,9 +21,14 @@ Then use microcontroller modules on push-in circuitboards to make circuits.  Con
 
 Programming.
 
+Connect the microcontroller to Thonny (or alternatively, Arduino Lab for MP), where you can see the program files. Learn how to edit and run programs.  Learn about REPL command line.  Learn to save programs as "main.py" to run on reset.  Add a second pin and second LED.  
+
+ 
 <figure>
 <img src="./img/Thonny.png" width="300" alt="arduino-led"/>
 </figure>
+
+Work with a program that controls RGB LED strips.  
 
 Run a motor on a breadboard using the power and ground pins of a microcontroller.  Find out how to make motor run forwards and backwards.  Discover that the board pins that are able to make the LED blink cannot drive motor directly.  
 
